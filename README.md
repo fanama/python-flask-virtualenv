@@ -12,7 +12,7 @@
 
 ## Activate the envirement
 
-from your project directory run :
+from your envirement directory run :
 - source /bin/activate
 
 
